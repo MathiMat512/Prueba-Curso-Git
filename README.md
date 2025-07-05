@@ -3,8 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-## Adicionales
-Este es un texto de prueba
+## Estos cambios son nuevos
+asdasdasdsa
